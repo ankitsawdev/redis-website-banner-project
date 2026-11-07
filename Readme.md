@@ -355,14 +355,14 @@ Lightweight check that doesn't fetch the full message.
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<a href="https://github.com/ankitsawdev/03-site-banner-project">
+<a href="https://github.com/ankitsawdev/redis-website-banner-project">
   <img src="https://img.shields.io/badge/STAR%20THIS%20REPO-DC382D?style=for-the-badge&logo=github&logoColor=white" alt="Star this repo">
 </a>
 
 <br><br>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/ankitsawdev/03-site-banner-project?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ankitsawdev/03-site-banner-project?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/ankitsawdev/redis-website-banner-project?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ankitsawdev/redis-website-banner-project?style=social)
 
 <sub>Built to learn, shared to help. Fork it, break it, make it yours.</sub>
 
